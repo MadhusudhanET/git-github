@@ -1,2 +1,2 @@
-Hai dar
-
+This is code file for Jva gaming project.
+This game is abt total crime investigation.
